@@ -6,7 +6,7 @@ I'm Otto from Finland, and I'm a 3rd year Business Information Technology studen
 ## Skills and Experience
 In addition to my IT/programming skills, I've included data-analytics, robotic process automation, Lean and Six Sigma into my studies. I've also completed a more in-depth course on Office365-apps.
 * ⚛️ React
-* 💻 HTML, CSS, Tailwind, JS, TS
+* 💻 HTML, CSS, Tailwind, JS, TS, HubL
 * 📈 Data-analytics
 * 🤖 Robotic Process Automation (RPA) 
 
